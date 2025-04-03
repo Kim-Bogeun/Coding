@@ -27,12 +27,12 @@ int main(){
             case '7': value = 7; break;
             case '8': value = 8; break;
             case '9': value = 9; break;
-            case 'A': case 'a': value = 10; break;
-            case 'B': case 'b': value = 11; break;
-            case 'C': case 'c': value = 12; break;
-            case 'D': case 'd': value = 13; break;
-            case 'E': case 'e': value = 14; break;
-            case 'F': case 'f': value = 15; break;
+            case 'A': value = 10; break;
+            case 'B': value = 11; break;
+            case 'C': value = 12; break;
+            case 'D': value = 13; break;
+            case 'E': value = 14; break;
+            case 'F': value = 15; break;
         }
         result += value * j;
     
