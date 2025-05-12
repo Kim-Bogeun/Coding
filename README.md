@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kim-Bogeun/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Kim-Bogeun/LeetCode/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Kim-Bogeun/Coding/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kim-Bogeun/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Kim-Bogeun/Coding/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kim-Bogeun/LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Kim-Bogeun/Coding/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
