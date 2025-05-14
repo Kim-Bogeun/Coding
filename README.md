@@ -70,4 +70,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0226-invert-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kim-Bogeun/Coding/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kim-Bogeun/Coding/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
