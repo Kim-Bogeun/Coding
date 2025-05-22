@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kim-Bogeun/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Kim-Bogeun/Coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kim-Bogeun/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
@@ -99,10 +100,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kim-Bogeun/Coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kim-Bogeun/Coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
