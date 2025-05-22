@@ -4,7 +4,7 @@ public:
         
         int n = cost.size();
 
-        vector<int> dp(10000, 0);
+        vector<int> dp(n, 0);
 
         if(n < 2){
             return cost[n];
