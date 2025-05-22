@@ -9,6 +9,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kim-Bogeun/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Kim-Bogeun/Coding/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kim-Bogeun/Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0747-min-cost-climbing-stairs) |
 | [1127-last-stone-weight](https://github.com/Kim-Bogeun/Coding/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
