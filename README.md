@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kim-Bogeun/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kim-Bogeun/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
@@ -94,4 +95,12 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Kim-Bogeun/Coding/tree/master/1127-last-stone-weight) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
