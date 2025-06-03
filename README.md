@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Kim-Bogeun/Coding/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kim-Bogeun/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Kim-Bogeun/Coding/tree/master/0967-minimum-falling-path-sum) |
 | [1127-last-stone-weight](https://github.com/Kim-Bogeun/Coding/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@
 | [0118-pascals-triangle](https://github.com/Kim-Bogeun/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Bogeun/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Kim-Bogeun/Coding/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -121,4 +123,5 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/Kim-Bogeun/Coding/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
