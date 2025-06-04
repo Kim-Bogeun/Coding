@@ -8,17 +8,18 @@ public:
         }
 
         vector<int> dp(n, 0);
-        dp[n-1] = n;
+        dp[n-1] = true;
 
         for(int i = n-2; i >= 0; --i){
-            int far = min(n-1, i + nums[i]);
-            for(int j = i+1; j <= far; ++j){
-                if(dp[j]) {
+            for(int j = 0; j <= nums[i]; ++j){
+                if(dp[i+j] == true){
                     dp[i] = true;
+                    cout << dp[i] << "true!" << endl;
                     break;
                 }
             }
         }
+        
         return dp[0];
     }
 };
