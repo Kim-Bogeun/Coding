@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kim-Bogeun/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Kim-Bogeun/LeetCode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Kim-Bogeun/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Bogeun/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,6 +107,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kim-Bogeun/Coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
@@ -128,4 +130,8 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Kim-Bogeun/Coding/tree/master/0967-minimum-falling-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
