@@ -9,6 +9,7 @@
 | [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Kim-Bogeun/Coding/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Kim-Bogeun/Coding/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Bogeun/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kim-Bogeun/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Kim-Bogeun/Coding/tree/master/0198-house-robber) |
@@ -116,6 +117,7 @@
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Kim-Bogeun/Coding/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Kim-Bogeun/Coding/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Bogeun/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Kim-Bogeun/Coding/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kim-Bogeun/Coding/tree/master/0241-different-ways-to-add-parentheses) |
