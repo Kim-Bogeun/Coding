@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kim-Bogeun/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Kim-Bogeun/LeetCode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Kim-Bogeun/Coding/tree/master/0118-pascals-triangle) |
@@ -112,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kim-Bogeun/Coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
@@ -142,5 +144,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
