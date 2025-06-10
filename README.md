@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Bogeun/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kim-Bogeun/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Kim-Bogeun/Coding/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kim-Bogeun/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kim-Bogeun/Coding/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kim-Bogeun/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Kim-Bogeun/Coding/tree/master/0377-combination-sum-iv) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kim-Bogeun/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kim-Bogeun/Coding/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kim-Bogeun/Coding/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -109,6 +111,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kim-Bogeun/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/Kim-Bogeun/Coding/tree/master/1127-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -146,4 +149,12 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kim-Bogeun/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kim-Bogeun/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
