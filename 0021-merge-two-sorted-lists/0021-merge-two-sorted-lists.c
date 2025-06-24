@@ -5,44 +5,57 @@
  *     struct ListNode *next;
  * };
  */
-
-typedef struct ListNode Node;
-
 struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) {
-    
-    Node *curr1 = list1, *curr2 = list2, *curr = NULL, *head = NULL;
+    struct ListNode* cur1 = list1;
+    struct ListNode* cur2 = list2;
+    struct ListNode* head;
+    struct ListNode* headcur;
 
-    if (list1 == NULL) return list2;
-    if (list2 == NULL) return list1;
-
-    if (list1->val <= list2->val) {
-        head = curr1;
-        curr1 = curr1->next;
-    } else {
-        head = curr2;
-        curr2 = curr2->next;
+    if(cur1 == NULL){
+        return cur2;
     }
-    curr = head;
+    else if(cur2 == NULL){
+        return cur1;
+    }
 
-    while(curr1 && curr2){
-        if(curr1->val > curr2->val){
-            curr->next = curr2;
-            curr2 = curr2->next;
-            curr = curr->next;
+    else{
+        if(cur1->val < cur2->val){
+            head = cur1;
+            cur1 = cur1->next;
         }
         else{
-            curr->next = curr1;
-            curr1 = curr1->next;
-            curr = curr->next;
+            head = cur2;
+            cur2 = cur2->next;
         }
     }
 
-    if(curr1 != NULL){
-        curr->next = curr1;
-    }
-    if(curr2 != NULL){
-        curr->next = curr2;
+    headcur = head;
+
+    while(true){
+        if(cur1 == NULL){
+            headcur->next = cur2;
+            break;
+        }
+        else if(cur2 == NULL){
+            headcur->next = cur1;
+            break;
+        }
+
+        else{
+            if(cur1->val < cur2->val){
+                headcur->next = cur1;
+                cur1 = cur1->next;
+                headcur = headcur->next;
+            }
+
+            else{
+                headcur->next = cur2;
+                cur2 = cur2->next;
+                headcur = headcur->next;
+            }
+        }
     }
 
-    return head;   
+    return head;
+
 }
