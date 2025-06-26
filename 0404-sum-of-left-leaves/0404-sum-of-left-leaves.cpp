@@ -20,8 +20,7 @@ public:
             return root->left->val + sumOfLeftLeaves(root->right);
         }
 
-        else{
-            return sumOfLeftLeaves(root->right) + sumOfLeftLeaves(root->left);
-        }
+        return sumOfLeftLeaves(root->right) + sumOfLeftLeaves(root->left);
+
     }
 };
