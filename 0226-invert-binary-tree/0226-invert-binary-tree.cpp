@@ -16,26 +16,6 @@ public:
             return root;
         }
 
-        if(root->left == nullptr && root->right == nullptr){
-            return root;
-        }
-
-        else if(root->left == nullptr){
-            root->left = root->right;
-            root->right = nullptr;
-
-            invertTree(root->left);
-            return root;
-        }
-
-        else if(root->right == nullptr){
-            root->right = root->left;
-            root->left = nullptr;
-
-            invertTree(root->right);
-            return root;
-        }
-
         else{
             TreeNode* temp;
             temp = root->left;
