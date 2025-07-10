@@ -20,6 +20,7 @@
 | [0377-combination-sum-iv](https://github.com/Kim-Bogeun/Coding/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Kim-Bogeun/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kim-Bogeun/Coding/tree/master/0747-min-cost-climbing-stairs) |
+| [0861-flipping-an-image](https://github.com/Kim-Bogeun/Coding/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/Kim-Bogeun/Coding/tree/master/0967-minimum-falling-path-sum) |
 | [1127-last-stone-weight](https://github.com/Kim-Bogeun/Coding/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kim-Bogeun/Coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kim-Bogeun/Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/Kim-Bogeun/Coding/tree/master/0861-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0063-unique-paths-ii) |
+| [0861-flipping-an-image](https://github.com/Kim-Bogeun/Coding/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/Kim-Bogeun/Coding/tree/master/0967-minimum-falling-path-sum) |
 ## Greedy
 |  |
@@ -187,4 +190,9 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Kim-Bogeun/Coding/tree/master/0338-counting-bits) |
+| [0861-flipping-an-image](https://github.com/Kim-Bogeun/Coding/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Kim-Bogeun/Coding/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
