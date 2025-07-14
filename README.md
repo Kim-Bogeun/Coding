@@ -91,6 +91,7 @@
 | [0226-invert-binary-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kim-Bogeun/Coding/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Kim-Bogeun/Coding/tree/master/0617-merge-two-binary-trees) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0226-invert-binary-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kim-Bogeun/Coding/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Kim-Bogeun/Coding/tree/master/0617-merge-two-binary-trees) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0226-invert-binary-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kim-Bogeun/Coding/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Kim-Bogeun/Coding/tree/master/0617-merge-two-binary-trees) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Kim-Bogeun/Coding/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
