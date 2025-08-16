@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kim-Bogeun/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Kim-Bogeun/LeetCode/tree/master/0058-length-of-last-word) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kim-Bogeun/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Linked List
@@ -77,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kim-Bogeun/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/Kim-Bogeun/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Kim-Bogeun/Coding/tree/master/0861-flipping-an-image) |
 ## Tree
@@ -148,6 +150,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kim-Bogeun/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Kim-Bogeun/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Bogeun/Coding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kim-Bogeun/Coding/tree/master/0062-unique-paths) |
