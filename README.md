@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kim-Bogeun/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Kim-Bogeun/Coding/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kim-Bogeun/LeetCode/tree/master/0058-length-of-last-word) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kim-Bogeun/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Linked List
@@ -134,6 +135,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kim-Bogeun/Coding/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kim-Bogeun/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kim-Bogeun/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kim-Bogeun/Coding/tree/master/0155-min-stack) |
